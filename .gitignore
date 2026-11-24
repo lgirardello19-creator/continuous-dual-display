@@ -1,0 +1,8 @@
+.env
+*.local-auth
+*.key
+*.pem
+*.log
+sunshine_state.json
+.DS_Store
+__pycache__/
